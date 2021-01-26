@@ -1,0 +1,4 @@
+tweepy
+dotenv
+geocoder
+textblob
