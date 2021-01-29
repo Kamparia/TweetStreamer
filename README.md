@@ -1,2 +1,2 @@
 # TweetStreamer
-Ingesting &amp; Analyzing Live Tweets In Real-Time Using Kinesis Firehose
+Analysing COVID-19 Tweets in real-time using Twitter Streaming API, ElasticSearch & Kibana.
